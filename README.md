@@ -1,2 +1,2 @@
 # dexTools_trending_bots
-This bot was created to test the school version. 
+This bot is written in Javascript to trend your token on dexTools.
