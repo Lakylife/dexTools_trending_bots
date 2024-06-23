@@ -3,7 +3,7 @@ Program dexTools Trend Bots (LAKYLIFE)
 ======================================================
 
 License:
-This program is owned by Lukáš Helebrandt, also known as Lakylife.
+This program is owned by Lakylife.
 All rights reserved.
 
 Program Information:
